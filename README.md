@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @freeznot
-- 👀 I’m interested in something codes. Usually I coding to PascalABC/Turbo Pascal.
+- 👀 I’m interested in something codes. Usually I coding to Pascal.
 
 <!---
 freeznot/freeznot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
